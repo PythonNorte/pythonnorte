@@ -8,3 +8,5 @@ from app.admin_class.horarios_evento import HorarioEvento, HorarioEventoAdmin
 
 admin.site.register(Evento, EventoAdmin)
 admin.site.register(Disertante, DisertanteAdmin)
+admin.site.register(Recurso, RecursoAdmin)
+admin.site.register(HorarioEvento, HorarioEventoAdmin)

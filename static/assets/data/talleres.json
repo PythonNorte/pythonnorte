@@ -1,0 +1,263 @@
+[
+  {
+    "titulo": "Ingreso al Mundo Laboral IT",
+    "descripcion": "Recomendaciones en entrevistas remotas y cómo armar el CVitae Digital. \n\n Dar una mirada general del actual mercado laboral para profesionales del área desde la perspectiva de un potencial empleador/reclutador, destacando las principales fortalezas y requisitos que a la fecha demanda este creciente mercado laboral. Tras una breve introducción teórica, destacando algunas características puntuales de este mercado, procederemos a analizar el uso de algunas herramientas básicas para potenciar las probabilidades de los futuros candidatos.",
+    "temario": "Sin especificar.",
+    "duracion": "Sin especificar",
+    "lugar": "Universidad Nacional de Salta - Instituto Dr. Facundo Zuviria.",
+    "fecha": "Jueves 29 y Viernes 30 de Agosto de 2019",
+    "horario": "Horarios a definir",
+    "inscripcion": false,
+    "no_inscripcion": true,
+    "inscripcion_link": "/inscripcion-programacion-bib-open-source-sasha-unsa.php",
+    "disertantes": [{
+      "nombre": "Ana Tabanera - IT Recruiting",
+      "email": "",
+      "about": ""
+    }],
+    "recursos": [
+      {
+        "nombre": "Presentación, Objetivos Generales",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/Presentación-Objetivos-Generales.pdf"
+      }
+    ]
+  },
+
+  {
+    "titulo": "Taller de Programación con Bibliotecas Open Source",
+    "descripcion": "**FUNDAMENTOS DEL TALLER**: En la actualidad la tecnología está inmersa en la mayoría de nuestras actividades, de manera pasiva y es parte esencial de cómo nos desenvolvemos en comunidad. En las últimas décadas la digitalización permitió que las actividades no solo sean realizadas sino que también sean censadas.\n\nLa mayoría de estos datos no son simplemente registros sin utilidad, son un producto o mercancía de la mayoría de las empresas actuales y son parte fundamental de la economía global.\n\nLos datos por sí solos no tienen valor, es la información que se puede extraer de ellos la cual contiene el valor.",
+    "temario": "Sin especificar.",
+    "duracion": "4 a 5 horas",
+    "lugar": "Facultad de Ciencias Exactas - Universidad Nacional de Salta",
+    "fecha": "29 de Abril de 2019",
+    "horario": "16hs a 18hs",
+    "inscripcion": false,
+    "inscripcion_link": "/inscripcion-programacion-bib-open-source-sasha-unsa.php",
+    "disertantes": [{
+      "nombre": "Licenciado Augusto Kielbowicz",
+      "email": "/assets/images/mail-sasha.png",
+      "about": "Licenciado en Ciencias Fı́sicas con interés en el análisis de datos en general. Tengo una sólida formación en matemáticas, estadı́stica y modelado numérico. Como programador autodidacta, aprendı́ varios lenguajes comúnmente utilizados en los campos cientı́ficos para automatizar las mediciones, analizar datos y hacer simulaciones. Desde que obtuve mi tı́tulo de grado, mi objetivo es aprender metodologı́as de desarrollo de software y buenas prácticas como Agile y TDD."
+    }],
+    "recursos": [
+      {
+        "nombre": "Resumen del taller",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/TALLER-BIBLIOTECAS-OPEN-SOURCE.pdf"
+      },
+      {
+        "nombre": "CV Resumido Licenciado Augusto Kielbowicz",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/cv_Augusto_Kielbowicz.pdf"
+      }
+    ]
+  },
+
+  {
+    "titulo": "Proyecto CIAA, CodeNLoad, Sistemas Embebidos",
+    "descripcion": "Proyecto CIAA, CodeNLoad, Sistemas Embebidos",
+    "temario": "Sin especificar.",
+    "duracion": "6 horas",
+    "lugar": "Tucumán 505 - Salta - E.E.T. Nº 3138 Alberto Einstein",
+    "fecha": "26 y 29 de Abril de 2019",
+    "horario": "14 a 17hs",
+    "inscripcion": false,
+    "inscripcion_link": "https://docs.google.com/forms/d/e/1FAIpQLScfmpAGRqWsJSbWT2oSIGxsDSm6lvHYqWT2VjADISEjX49JZA/viewform",
+    "disertantes": [
+      {
+        "nombre": "Pablo O. Ridolfi",
+        "email": "/assets/images/mail-ridolfi.png",
+        "about": " Ingeniero en Electrónica (UTN-FRH), Máster en Sistemas Embebidos (FI-UBA) con más de doce años de experiencia en diseño y puesta en marcha de sistemas electrónicos para diferentes industrias así como en educación, capacitación y formación de equipos de trabajo."
+      },
+      {
+        "nombre": "Gessica Paniagua",
+        "email": "/assets/images/link-jesica-paniagua.png",
+        "about": "Python Developer, Sistemas Embebidos"
+      },
+      {
+        "nombre": "Diego Ramirez",
+        "email": "/assets/images/mail-diego-ramirez.png",
+        "about": "All along my profesional experience I got involved on Software development. Either as developer, architect, consultant, team leader or manager. I've been working on SD for the last 20 years and every day I find something to learn and improve."
+      }
+    ],
+    "recursos": [
+      {
+        "nombre": "CV Pablo O. Ridolfi",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/cv_pablo_ridolfi_1809.pdf"
+      },
+      {
+        "nombre": "CV Gessica Paniagua",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/GESSICA-PANIAGUA-Profile.pdf"
+      },
+      {
+        "nombre": "CV Diego Ramirez",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/DIEGO-RAMIREZ-Profile.pdf"
+      },
+      {
+        "nombre": "CodeNLoad Web",
+        "icono": "fa fa-link",
+        "url": "https://www.codenload.com/"
+      },
+      {
+        "nombre": "Afiche",
+        "icono": "fas fa-image",
+        "url": "/assets/images/baner-taller-shasha-ridolfi-jesica.jpg"
+      }
+    ]
+  },
+
+  {
+    "titulo": "Taller de Programación con Bibliotecas Open Source",
+    "descripcion": "**FUNDAMENTOS DEL TALLER**: En la actualidad la tecnología está inmersa en la mayoría de nuestras actividades, de manera pasiva y es parte esencial de cómo nos desenvolvemos en comunidad. En las últimas décadas la digitalización permitió que las actividades no solo sean realizadas sino que también sean censadas.\n\nLa mayoría de estos datos no son simplemente registros sin utilidad, son un producto o mercancía de la mayoría de las empresas actuales y son parte fundamental de la economía global.\n\nLos datos por sí solos no tienen valor, es la información que se puede extraer de ellos la cual contiene el valor.",
+    "temario": "Sin especificar.",
+    "duracion": "4 a 5 horas",
+    "lugar": "Vicente Lopéz 38 - Salta - Instituto Dr. Facundo Zuviria",
+    "fecha": "25 y 29 de Abril de 2019",
+    "horario": "19 a 21hs",
+    "inscripcion": false,
+    "inscripcion_link": "/inscripcion-programacion-bib-open-source-sasha-zuviria.php",
+    "disertantes": [{
+      "nombre": "Licenciado Augusto Kielbowicz",
+      "email": "/assets/images/mail-sasha.png",
+      "about": "Licenciado en Ciencias Fı́sicas con interés en el análisis de datos en general. Tengo una sólida formación en matemáticas, estadı́stica y modelado numérico. Como programador autodidacta, aprendı́ varios lenguajes comúnmente utilizados en los campos cientı́ficos para automatizar las mediciones, analizar datos y hacer simulaciones. Desde que obtuve mi tı́tulo de grado, mi objetivo es aprender metodologı́as de desarrollo de software y buenas prácticas como Agile y TDD."
+    }],
+    "recursos": [
+      {
+        "nombre": "Resumen del taller",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/TALLER-BIBLIOTECAS-OPEN-SOURCE.pdf"
+      },
+      {
+        "nombre": "CV Resumido Licenciado Augusto Kielbowicz",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/cv_Augusto_Kielbowicz.pdf"
+      }
+    ]
+  },
+
+  {
+    "titulo": "Taller de Programación con Bibliotecas Open Source",
+    "descripcion": "**FUNDAMENTOS DEL TALLER**: En la actualidad la tecnología está inmersa en la mayoría de nuestras actividades, de manera pasiva y es parte esencial de cómo nos desenvolvemos en comunidad. En las últimas décadas la digitalización permitió que las actividades no solo sean realizadas sino que también sean censadas.\n\nLa mayoría de estos datos no son simplemente registros sin utilidad, son un producto o mercancía de la mayoría de las empresas actuales y son parte fundamental de la economía global.\n\nLos datos por sí solos no tienen valor, es la información que se puede extraer de ellos la cual contiene el valor.",
+    "temario": "Sin especificar.",
+    "duracion": "4 a 5 horas",
+    "lugar": "Tucumán 505 - Salta - E.E.T. Nº 3138 Alberto Einstein",
+    "fecha": "25 de Abril de 2019",
+    "horario": "14 a 17hs",
+    "inscripcion": false,
+    "inscripcion_link": "https://docs.google.com/forms/d/e/1FAIpQLScfmpAGRqWsJSbWT2oSIGxsDSm6lvHYqWT2VjADISEjX49JZA/viewform",
+    "disertantes": [{
+      "nombre": "Licenciado Augusto Kielbowicz",
+      "email": "/assets/images/mail-sasha.png",
+      "about": "Licenciado en Ciencias Fı́sicas con interés en el análisis de datos en general. Tengo una sólida formación en matemáticas, estadı́stica y modelado numérico. Como programador autodidacta, aprendı́ varios lenguajes comúnmente utilizados en los campos cientı́ficos para automatizar las mediciones, analizar datos y hacer simulaciones. Desde que obtuve mi tı́tulo de grado, mi objetivo es aprender metodologı́as de desarrollo de software y buenas prácticas como Agile y TDD."
+    }],
+    "recursos": [
+      {
+        "nombre": "Resumen del taller",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/TALLER-BIBLIOTECAS-OPEN-SOURCE.pdf"
+      },
+      {
+        "nombre": "CV Resumido Licenciado Augusto Kielbowicz",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/cv_Augusto_Kielbowicz.pdf"
+      },
+      {
+        "nombre": "Afiche",
+        "icono": "fas fa-image",
+        "url": "/assets/images/baner-taller-shasha-ridolfi-jesica.jpg"
+      }
+    ]
+  },
+  
+  {
+    "titulo": "Introducción a Redes Neuronales",
+    "descripcion": "Objetivo: Se introducirá la problematica al analizar imágenes para cuantificar y ayudar al diagnostico de diferentes patologías mediante imágenes médicas. Luego nos centraremos en describir las principales ideas detrás de las técnicas de redes neuronales conocidas como aprendizaje profundo o Deep Learning para clasificar tejido en las imágenes y su posterior cuantificación. \n\n Resumen: Las técnicas de aprendizaje profundo o Deep Learning, en particular, las redes neuronales convolucionales (CNNs) han demostrado ser una herramienta poderosa para abordar un gran número de problemas en el área de visión por computador. En este sentido, las CNNs profundas han probado ser lo suficientemente versátiles y precisas para detectar y clasificar una gran variedad objetos directamente a partir de imágenes. Actualmente la mayoría de los grupos de procesado de imágenes médicas se encuentran utilizando de alguna manera este tipo de redes profundas para cuantificar información relevante a partir de imágenes médicas. Solo por nombrar algunos ejemplos, las CNNs profundas han demostrado ser de gran utilidad para cuantificar la severidad de una patología o la detección del tejido tumoral, reducir la variabilidad inter- e intra-observador tan común en el área de radiología. En este curso se expondrán los principales retos en el procesado de imágenes médicas y se introducirán algunos conceptos de redes neuronales para centrarnos en las CNNs profundas y se implementaran a lo largo del curso diferentes ejemplos en python.\n#### Requisitos\nPara los interesados en los talleres practicos es requisito indispensable contar con 1 pc por persona como requisitos minimos de los equipo se recomienda procesador I3 o superior, 4 GB RAM y 5 GB de espacio libre en el disco.\nTener instalado todos los paquetes necesarios para el taller, durante el taller no se veran cuestiones de instalación de paquetes y librerias necesarias (ver guia instalación paquetes en recursos adicionales)\n\nTambien se recomienda participar del taller de Horacio Mayo **Introducción a Python Cientifico** ademas alli se los guiara en el proceso de configuración de equipos para este taller asi como se mostrara alguna de las herramientas necesarias para el mismo.",
+    "temario": "* Introducción a la Inteligencia artificial: Knowledge base, Machine learning y redes neuronales\n* Pequeña historia sobre la evolución de las redes neuronales\n* Introducción de machine learning y conceptos generales: overfitting, generalización, etc.\n* Ejemplo supervisado simple (Regresión lineal). Ejemplo no supervisado simple (k-means)\n* Introducción Redes neuronales (neuronas, activación,modelo McCulloch-Pitts de la neurona)\n* Perceptrón y perceptrón multicapa\n* Back propagation\n* Redes convolucionales\n* Pooling y Unpooling\n* Fully convolutional NN\n* Introducción a Keras\n* Implementación del algoritmo de back propagation para resolver el problema de xor de cero",
+    "duracion": "8hs Teoria + 4hs Practica",
+    "lugar": "AULA SEMINARIO INENCO - Dpto FISICA - Universidad Nacional de Salta",
+    "fecha": "25, 26 de Septiembre de 2018",
+    "horario": "15 a 19hs",
+    "inscripcion": false,
+    "inscripcion_link": "/inscripcion-redes-neuronales.php",
+    "disertantes": [{
+      "nombre": "Dr. Ariel Hernán Curiale",
+      "email": "/assets/images/mail-ariel.png",
+      "about": "Ariel Hernán Curiale graduated from the University of Buenos Aires, Argentina, where he obtained his B.Sc in computer science, in 2009. In 2011 he received the M.S. degree in  Information and Telecommunication Technology from University of Valladolid, Valladolid, Spain. He joined the the Laboratory of Image Processing, University of Valladolid, as a Researcher in 2010 with a Collaboration Fellowship granted by the Argentine Ministry of Education and the Caroline Foundation. He also received a scholarship from the University of Valladolid and has been a student visitor at the Erasmus Medical Center, Rotterdam for three months starting in September 2013. In 2015  he received the International Ph.D. degree on information technologies and telecommunications of the Official College of Telecommunications Engineering, University of Valladolid, Valladolid, Spain. Nowadays, he is a researcher (CONICET) working the Medical Physics department at the Centro Atómico Bariloche – Instituto Balseiro and math student at University of Comahue, S.C de Bariloche, Río Negro, Argentina. [Mas Info](http://www.curiale.com.ar/)"
+    }],
+    "recursos": [
+      {
+        "nombre": "Configurar equipos con Linux Basados en Debian para el Taller",
+        "icono": "fab fa-linux",
+        "url": "https://github.com/PythonNorte/Papers/tree/master/Guia-Config-Equipos-Intro-Redes-Neuronales/linux-ubuntu"
+      },
+      {
+        "nombre": "Instalación librerias para el taller Redes Neuronales",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/Tutorial_Instalacion_Deep_Learning.rar"
+      },
+      {
+        "nombre": "Afiche",
+        "icono": "fas fa-image",
+        "url": "/assets/images/baner-python-ariel.jpg"
+      }
+    ]
+  },
+  {
+    "titulo": "Taller Introducción a Python Científico",
+    "descripcion": "Este taller está enfocado a público en general para introducirse al uso del lenguaje de Programación Python y librerías con aplicaciones al ambiente científico. No es necesario conocimientos previos de programación, aunque pueden resultar útiles para el taller. Es necesario un conocimiento solido de manejo de PC, sin importar sistema operativo (Linux, Windows, etc). Importante asistir con computadora personal: Requisitos mínimos: Procesador Intel I3. Memoria: Igual o superior a 4 GB RAM. Espacio libre en disco: 5 GB.",
+    "temario": "###### Introducción a Python Científico\nTipos básicos y contenedores (Listas, Tuplas, Diccionarios) Control de Flujo: If/Elif/Else. Operadores lógicos: >, <, ==, !=, >=, <=. Ciclo For. While. Lista y generadores por compresión. Funciones, parámetros, y retorno.\n###### Introducción a Numpy\nArrays. Creación de Arrays. A partir de listas o tuplas. A partir de funciones propias de Numpy. A partir de un archivo CSV. Guardado en archivo CSV. Broadcasting. Indexing. Slicing.\nManipulación de dimensiones de un array. Aplanado o Flatening. Reshaping. Copias y Vistas.\n###### Introducción a Matplotlib\nImportación. Gráficos más comunes. Editar parámetros y customizar graficos. Limites, labels, ticks. Guardado de graficos en diferentes formatos. Subplots. Ejemplos.",
+    "duracion": "3 horas",
+    "lugar": "AULA SEMINARIO INENCO - Dpto FISICA - Universidad Nacional de Salta",
+    "fecha": "24 de Septiembre de 2018",
+    "horario": "16 a 19hs",
+    "inscripcion": false,
+    "inscripcion_link": "/inscripcion-python-cientifico.php",
+    "disertantes": [{
+      "nombre": "Horacio F. Mayo (CBBA - FCA -UNJu)",
+      "email": "/assets/images/mail-hmayo.png",
+      "about": "Horacio F. Mayo. Cátedra de Informatica Aplicada a la Biología, FCA-UNJu. Miembro del Centro de Estudios en Bioestadística, Bioinformatica y Agromatica (CBBA), FCA-UNJu. Investigador en Agroclimatologia y Cambio Climático con publicaciones en congresos nacionales e internacionales. Administrador y productor de contenidos en el Servicio de información Agroclimatica de Jujuy (www.siaj.fca.unju.edu.ar) Miembro activo de Python Norte Argentina, entusiasta del Software Libre."
+    }],
+    "recursos": [
+      {
+        "nombre": "Instalación Mini Conda en diferentes plataformas",
+        "icono": "fas fa-file-archive",
+        "url": "/assets/resources/Tutorial_Instalacion_Deep_Learning.rar"
+      },
+      {
+        "nombre": "Afiche",
+        "icono": "fas fa-image",
+        "url": "/assets/images/baner-python-ariel.jpg"
+      }
+    ]
+	},
+  {
+    "titulo": "Introducción a Python Cientifico: Jupyter Notebook y Pandas",
+    "descripcion": "**Python** es un lenguaje de programación de alto nivel, utilizado en multiples ambitos (Paginas web, juegos, investigación, etc). Esta charla introductoria muestra como puede ser usado en el ambiente cientifico ademas de presentar 2 de sus herramientas más útiles: [Jupyter Notebook](http://jupyter.org/) y [Pandas](https://pandas.pydata.org/)",
+    "temario": "1. Pydata. Python Científico. Scipy\n2. Librerías Core (Nucleo)\n    * Numpy, Jupyter/Ipython, Matplotlib, Scipy, Pandas\n3. Librerías Específicas\n    * Visualización, Machine Learning, Natural Lenguaje Processing\n    * Image Processing, Deep Learning, Otros\n4. ¿Cómo empezar a programar siendo Científicos?\n    * ¿Qué tengo que instalar primero?\n    * Citar trabajos\n    * ¿Trabajo solo o en equipo?\n    * ¿Dónde encuentro información? ¿O datos?\n    * ¿Cómo pensar como programador?",
+    "duracion": "2 horas",
+    "lugar": "Aula Multimedia, INENCO - UNSa",
+    "fecha": "17 de Agosto de 2018",
+    "horario": "17 a 19hs",
+    "inscripcion": false,
+    "disertantes": [{
+      "nombre": "Horacio F. Mayo (CBBA - FCA -UNJu)",
+      "email": "/assets/images/mail-hmayo.png",
+      "about": "Horacio F. Mayo. Cátedra de Informatica Aplicada a la Biología, FCA-UNJu. Miembro del Centro de Estudios en Bioestadística, Bioinformatica y Agromatica (CBBA), FCA-UNJu. Investigador en Agroclimatologia y Cambio Climático con publicaciones en congresos nacionales e internacionales. Administrador y productor de contenidos en el Servicio de información Agroclimatica de Jujuy (www.siaj.fca.unju.edu.ar) Miembro activo de Python Norte Argentina, entusiasta del Software Libre."
+    }],
+    "recursos": [
+      {
+        "nombre": "Afiche",
+        "icono": "fas fa-image",
+        "url": "https://preview.ibb.co/fNq8AK/taller_horacio.jpg"
+      },
+      {
+        "nombre": "Resumen del Taller",
+        "icono": "fas fa-file",
+        "url": "https://github.com/HoracioNakama/intro_pythoncientifico/blob/master/Horacio_PythonCientifico.ipynb"
+      }
+    ]
+	}
+]

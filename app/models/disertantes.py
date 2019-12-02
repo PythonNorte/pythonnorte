@@ -9,6 +9,7 @@ class Disertante(models.Model):
 
     class Meta:
         db_table = "disertantes"
+        verbose_name_plural = "Disertantes"
 
     def __str__(self):
         return self.nombre_completo

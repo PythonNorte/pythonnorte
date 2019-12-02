@@ -9,3 +9,7 @@ class HorarioEvento(models.Model):
 
     class Meta:
         db_table = "horarios_evento"
+        verbose_name_plural = "Horarios de los Eventos"
+
+    def __str__(self):
+        return self.evento.titulo + " - " + self.fecha.strftime("%d/%m/%Y")

@@ -89,7 +89,16 @@ USE_I18N = True
 USE_L10N = True
 USE_TZ = True
 
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+    os.path.join(BASE_DIR, 'media_archivos_locales'),
+)
+
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = "/static/"
+
+MEDIA_ROOT = 'media_archivos_locales'
+MEDIA_URL = '/media/'
+
 
 django_heroku.settings(locals())

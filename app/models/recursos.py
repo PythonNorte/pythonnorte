@@ -8,3 +8,7 @@ class Recurso(models.Model):
 
     class Meta:
         db_table = "recursos"
+        verbose_name_plural = "Recursos"
+
+    def __str__(self):
+        return self.nombre

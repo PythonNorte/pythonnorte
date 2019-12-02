@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Talleres Python Cientifico</title>
+    {% include 'headers.html' %}
+    <script type="text/javascript" src="https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js"></script>
+
+    <script type="text/javascript" src="/assets/scripts/talleres.js"></script>
+  </head>
+  <body>
+    {% include 'navbar.html' %}
+
+    <div class="container" style="padding-top: 32pt;">
+
+      <h1 class="title text-center">Talleres Python Cientifico</h1>
+
+      {% for evento in eventos %}
+      <div class="taller">
+        <span class="label bold">{{evento.fechas}}</span>
+        <h3 class="taller-title">{{evento.titulo}}</h3>
+        <div class="row">
+          <div class="col-md-6">
+            <span class="label bold">Descripción</span>
+            <span class="taller-descripcion">{{evento.descripcion}}</span>
+
+            <span class="label bold">Temario</span>
+            <div class="taller-temario">{{evento.temario}}</div>
+          </div>
+          <div class="col-md-6">
+            <div class="">
+              <span class="label bold">Disertante/s</span>
+              {% for disertante in evento.disertantes.all %}
+                <h5>{{disertante.nombre_completo }}</h5>
+                <img src="{{disertante.email}}" alt="">
+                <div class="disertante-about">{{disertante.about}}</div>
+              {% endfor %}
+            </div>
+
+            <div class="">
+              <span class="label bold">Lugar</span>
+              <span>{{taller.lugar}}</span>
+            </div>
+            <div class="">
+              <span class="label bold">Horario</span>
+              <span>{{taller.horario}} ({{taller.duracion}})</span>
+            </div>
+          </div>
+        </div>
+        <div class="text-left">
+          <table class="table">
+            <thead>
+              <tr>
+                <th colspan="2">Recursos Adicionales</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for recurso in taller.recursos %}
+              <tr>
+                <td>
+                  <a href="{{recurso.url}}" target="_blank">
+                    <i class="{{recurso.icono}} "></i>
+                  </a>
+                </td>
+                <td>
+                  <a href="{{recurso.url}}" target="_blank">
+                    {{recurso.nombre}}
+                  </a>
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <div class="text-right">
+          {% if taller.no_inscripcion == true %}
+          {% else %}
+            {% if taller.inscripcion == true %}
+              <a href="{{taller.inscripcion_link}}" class="button-3d ">inscripcion al Taller</a>
+            {% else %}
+              <span class="button-3d-disable">Taller Finalizado</span>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+
+      {% endfor %}
+    </div>
+
+  {% include 'footer.html' %}
+  </body>
+</html>

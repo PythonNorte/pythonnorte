@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Python Norte</title>
+    {% include 'headers.html' %}
+  </head>
+  <body>
+    {% include 'navbar.html' %}
+    <div class="container text-center mt4">
+      <img src="{% static '/assets/images/logo-python-norte.jpg' %}" class="img-responsive" style="max-width: 400px;" alt="">
+      <div class="tc f3  black-40">
+        Python Argentina en el Norte del País
+      </div>
+    </div>
+    
+    {% include 'cont-sponsors.html' %}
+    {% include 'cont-instituciones.html' %}
+    {% include 'cont-comunidades.html' %}
+  </body>
+</html>
