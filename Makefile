@@ -38,3 +38,9 @@ build_requirements:
 
 collectstatic:
 	pipenv run python manage.py collectstatic
+
+deploy:
+	sudo git push heroku master
+
+migrar_en_prod:
+	sudo heroku run python manage.py  migrate --noinput
